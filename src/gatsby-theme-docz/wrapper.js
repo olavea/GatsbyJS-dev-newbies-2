@@ -6,7 +6,7 @@ const Wrapper = ({ children, doc }) => (
   <React.Fragment>
     <Helmet>
       <meta charSet="utf-8" />
-      <title>useAuth</title>
+      <title>newbie</title>
 
       <link rel="icon" type="image/png" href="../src/images/Swizec2.png" />
     </Helmet>
