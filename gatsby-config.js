@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `useAuth`,
-    description: `Add authentication to your React app.`,
-    twitter: "@swizec",
-    image: "https://twitter.com/Swizec/photo"
+    title: `GatsbyJS-dev-newbies`,
+    description: `GatsbyJS-dev-newbies.`,
+    twitter: "@olaholstvea",
+    image: "https://twitter.com/olaholstvea/photo"
   },
 
   plugins: [
@@ -12,11 +12,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `useAuth!`,
-        short_name: `useAuth!`,
+        name: `GatsbyJS-dev-newbies!`,
+        short_name: `dev-newbies!`,
         start_url: `/`,
 
-        icon: `src/images/Swizec7.png`
+        icon: `src/images/LilliansUnicorns7.png`
       }
     }
 

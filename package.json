@@ -1,20 +1,21 @@
 {
-  "name": "useAuth",
+  "name": "GatsbyJS-dev-newbies",
   "private": true,
-  "description": "Add authentication to your React app",
+  "description": "GatsbyJS-dev-newbies",
   "version": "2.0.0-rc.41",
   "keywords": [
-    "useAuth",
+    "GatsbyJS",
     "gatsby",
+    "dev-newbies",
     "docz"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Swizec/useAuth.git/issues"
+    "url": "https://github.com/olavea/GatsbyJS-dev-newbies-2.git/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Swizec/useAuth.git"
+    "url": "https://github.com/olavea/GatsbyJS-dev-newbies.git"
   },
   "scripts": {
     "dev": "gatsby develop",
@@ -25,7 +26,7 @@
     "docz": "^2.0.0-rc.76",
     "gatsby": "^2.13.73",
     "gatsby-cli": "^2.8.26",
-    "gatsby-plugin-manifest": "^2.2.37",
+    "gatsby-plugin-manifest": "^2.2.41",
     "gatsby-plugin-offline": "^2.2.7",
     "gatsby-plugin-sharp": "^2.2.18",
     "gatsby-theme-docz": "latest",
